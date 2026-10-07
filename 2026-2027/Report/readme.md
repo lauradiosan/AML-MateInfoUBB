@@ -15,16 +15,16 @@ The technical report should contain:
 2. Graphical abstract - an example [here](https://ars.els-cdn.com/content/image/1-s2.0-S0010482519303014-fx1_lrg.jpg)
 
 **Related work**
-
+- identify similar approaches; please use specific tools for literature review (e.g. [MapwiseFox](https://github.com/koosie0507/mapwisefox)
+)
 **Developed approach and experiments** 
 
-**Philosofical aspects**
-1. Social impact of your project & results
-2. Ethics in your ML-based projects
-3. Fairness of your intelligent algorithm
-- https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-for-everyone-understanding-fairness-in-machine-learning
-- https://developers.google.com/machine-learning/fairness-overview
-
+**Governance aspects**
+1. Ethics in your AI-based projects
+2. Fairness of your intelligent algorithm [link1](https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-for-everyone-understanding-fairness-in-machine-learning), [link2](https://developers.google.com/machine-learning/fairness-overview)
+4. Agency - what is the system allowed to decide and how far may it act before a persone involved?
+5. Architecture - which components does that permision require - retrieval, tools, meory, orchestration, checks?
+6. Accountability - who answers for an outcome, what does the record show and how does someone contest it?
 
 **Conclusions**
 

@@ -6,7 +6,6 @@
 | Agentic orchestration | 20 | new experiments & results | 20 | Seminar6 |
 | Deployed app | 10 | SWOT analysis and project presentation | 20 | Seminar7 |	
 
-SAS certification - 20 points
 
 | Points | Grade |
 | :--- | :---: | 
@@ -19,3 +18,5 @@ SAS certification - 20 points
 | < 30 | 4 |
 
 A delay (2 weeks) will be penalised by 20% of the obtained points.
+
+Project presentation is a mandatory activity and the entire team must be involved in it.
