@@ -15,8 +15,8 @@ The technical report should contain:
 2. Graphical abstract - an example [here](https://ars.els-cdn.com/content/image/1-s2.0-S0010482519303014-fx1_lrg.jpg)
 
 **Related work**
-- identify similar approaches; please use specific tools for literature review (e.g. [MapwiseFox](https://github.com/koosie0507/mapwisefox)
-)
+- identify similar approaches; please use specific tools for literature review (e.g. [MapwiseFox](https://github.com/koosie0507/mapwisefox))
+
 **Developed approach and experiments** 
 
 **Governance aspects**
