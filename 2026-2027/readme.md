@@ -270,7 +270,7 @@ Scope ideas:
 - using any programming language and technologies 
 - codebases must be:
     - presented in a live way to the supervisor (demo) 
-    - submitted [here](https://classroom50.org/LauraDiosan-CS/aml-2026-2027/assignments/aml-project/accept), before deadlines
+    - submitted [here](https://classroom50.org/LauraDiosan-CS/aml-2026-2027/assignments/aml-projectsreloaded/accept), before deadlines
 
 
 **Technical report**
