@@ -5,9 +5,11 @@
 
 1 - intro & adminstrative details
 
-2 - Machine Learning - recap 
+2 - Machine Learning - recap [link]](2026-2027\Lectures\01_ML_intro.ppt),
 
-3 - Generative AI - Transformer-based models for processing textual, visual, audio, code data
+3- Deep Learning for Computer Vision [link](2026-2027\Lectures\02_CV_ML.ppt)
+
+3 - Generative AI - RNN & Transformer-based models [link](2026-2027\Lectures\03_RNN_ViT.ppt)
 
 4 - Diffusion models  
 
